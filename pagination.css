@@ -1,0 +1,29 @@
+body{
+    justify-items: center;
+    background-image: url("https://images.wallpaperscraft.com/image/single/stains_light_texture_background_50789_1280x1024.jpg");
+    height: 100%;
+    width: 100%;
+    
+}
+.container{
+    padding: 30px 30px;
+    border-radius: 10px;
+    background: rgba( 55, 226, 244, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 20px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 ); 
+    align-items: center; 
+}
+.controls-item {
+    display: inline-block;
+}
+
+.btn {
+    margin: 1px;
+}
+#pagination-wrapper{
+    text-align: center;
+    padding-bottom: 10px;
+}
